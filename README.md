@@ -39,6 +39,6 @@ Before you begin, ensure you have met the following requirements:
 2. Run the script:
 
     ```bash
-    nodeMailer.js
+    node nodeMailer.js
     ```
 
